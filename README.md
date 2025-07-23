@@ -175,4 +175,7 @@ Quick reference for generating Allure reports with Maven, TestNG, and IntelliJ.
   - ✅ Ensure Surefire is configured to output to `target/allure-results`
 
 ---
+## 📊 View Latest Allure Report
+
+👉 [Click here to view the hosted Allure Report]([https://pramila91.github.io/AllureReportGeneration_RestfulAPISecurity/]
 
