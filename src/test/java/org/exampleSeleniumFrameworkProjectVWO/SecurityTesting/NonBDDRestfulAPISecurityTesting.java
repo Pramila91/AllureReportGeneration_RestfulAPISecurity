@@ -14,7 +14,7 @@ public class NonBDDRestfulAPISecurityTesting extends BaseTest {
     ValidatableResponse vr;
 
     @Test
-    @Owner("Pramila 91")
+    @Owner("Pramila")
     @Description("Ensures the endpoint /booking/1 is protected against clickjacking and bad path injection by sending a malicious path segment. Expects a 404 Not Found, indicating the server rejects malformed or malicious resource paths.")
 
     public void nonBDD_getBookingById_shouldReturnErrorforXSS_ScriptingInGetRequest(){
