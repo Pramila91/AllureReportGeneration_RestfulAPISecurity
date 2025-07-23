@@ -176,9 +176,9 @@ Quick reference for generating Allure reports with Maven, TestNG, and IntelliJ.
 
 ---
 ## 📊 View Latest Allure Report
-![CI](https://github.com/pramila91/<AllureReportGeneration_RestfulAPISecurity/>/actions/workflows/allure-report.yml/badge.svg)
-👉 [View Allure Report](https://https://pramila91.github.io/AllureReportGeneration_RestfulAPISecurity/)
+![CI](https://github.com/Pramila91/AllureReportGeneration_RestfulAPISecurity/actions/workflows/allure-report.yml/badge.svg)
 
+👉 [View Allure Report](https://pramila91.github.io/AllureReportGeneration_RestfulAPISecurity/)
 
 👉 [Click here to view the hosted Allure Report]([https://pramila91.github.io/AllureReportGeneration_RestfulAPISecurity/]
 
