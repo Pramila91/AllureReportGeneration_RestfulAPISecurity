@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="AllureReportGeneration_RestfulAPISecurity"
+           tests="2"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="10.046">
+    <properties></properties>
+
+
+
+            <testcase
+                name="bdd_getBookingById_shouldReturnErrorforSQL_InjectionInGetRequest"
+                time="1.714"
+                classname="org.exampleSeleniumFrameworkProjectVWO.SecurityTesting.BDDRestfulGetAPISecurityTesting">
+            </testcase>
+            <testcase
+                name="bdd_getBookingById_shouldReturnErrorforXSS_ScriptingInGetRequest"
+                time="8.332"
+                classname="org.exampleSeleniumFrameworkProjectVWO.SecurityTesting.BDDRestfulGetAPISecurityTesting">
+            </testcase>
+</testsuite>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="AllureReportGeneration_RestfulAPISecurity"
+           tests="1"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="5.064">
+    <properties></properties>
+
+
+
+            <testcase
+                name="nonBDD_getBookingById_shouldReturnErrorforXSS_ScriptingInGetRequest"
+                time="5.064"
+                classname="org.exampleSeleniumFrameworkProjectVWO.SecurityTesting.NonBDDRestfulAPISecurityTesting">
+            </testcase>
+</testsuite>
