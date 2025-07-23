@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="AllureReportGeneration_RestfulAPISecurity">
+    <test verbose="2" preserve-order="true" name="AllureReportGeneration_RestfulAPISecurity">
+        <classes>
+            <class name="org.exampleSeleniumFrameworkProjectVWO.SecurityTesting.NonBDDRestfulAPISecurityTesting">
+
+            </class>
+        </classes>
+    </test>
+</suite>
+
